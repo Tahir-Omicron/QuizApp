@@ -1,0 +1,3 @@
+TahirQuliyev,2006,0
+admin,admin123,1
+tahirishko,12345,0
